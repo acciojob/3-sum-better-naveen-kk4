@@ -53,5 +53,5 @@ function threeSum(arr, target) {
   
    
  }
- console.log(threeSum([-1,2,1,-4],1));
+ module.exports = threeSum;
  
